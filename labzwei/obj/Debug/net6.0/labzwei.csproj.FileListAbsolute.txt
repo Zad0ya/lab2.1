@@ -1,0 +1,15 @@
+C:\Users\Max\source\repos\labzwei\labzwei\bin\Debug\net6.0\labzwei.exe
+C:\Users\Max\source\repos\labzwei\labzwei\bin\Debug\net6.0\labzwei.deps.json
+C:\Users\Max\source\repos\labzwei\labzwei\bin\Debug\net6.0\labzwei.runtimeconfig.json
+C:\Users\Max\source\repos\labzwei\labzwei\bin\Debug\net6.0\labzwei.dll
+C:\Users\Max\source\repos\labzwei\labzwei\bin\Debug\net6.0\labzwei.pdb
+C:\Users\Max\source\repos\labzwei\labzwei\obj\Debug\net6.0\labzwei.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\labzwei\labzwei\obj\Debug\net6.0\labzwei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\source\repos\labzwei\labzwei\obj\Debug\net6.0\labzwei.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\labzwei\labzwei\obj\Debug\net6.0\labzwei.AssemblyInfo.cs
+C:\Users\Max\source\repos\labzwei\labzwei\obj\Debug\net6.0\labzwei.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\labzwei\labzwei\obj\Debug\net6.0\labzwei.dll
+C:\Users\Max\source\repos\labzwei\labzwei\obj\Debug\net6.0\refint\labzwei.dll
+C:\Users\Max\source\repos\labzwei\labzwei\obj\Debug\net6.0\labzwei.pdb
+C:\Users\Max\source\repos\labzwei\labzwei\obj\Debug\net6.0\labzwei.genruntimeconfig.cache
+C:\Users\Max\source\repos\labzwei\labzwei\obj\Debug\net6.0\ref\labzwei.dll
